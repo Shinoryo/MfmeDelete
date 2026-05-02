@@ -1,0 +1,11 @@
+﻿{
+  "name": "mfme-delete",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "delete:mfme": "node src/delete-moneyforward.js"
+  },
+  "dependencies": {
+    "playwright": "*"
+  }
+}
